@@ -21,14 +21,14 @@ This project demonstrates how AI tools can streamline exploratory data analysis.
 
 ### **Repository Structure**
 
-|        File                |                 Description                            |
-| --------------------       | ------------------------------------------------------ |
-| `Julius_Report.pdf`        | Complete analysis with graphs and detailed explanations|
-| `Zebra_Visuals.xlsx`       | Visual outputs and charts from Zebra AI                |
-| `Netflix.csv`              | The dataset used for analysis                          |
-| `Netflix_filled.csv`       | The dataset which was cleaned and given by Julius AI   |
-| `Chat gpt 2`               | Identified null values in each columns                 |
-| `Chat gpt sample analysis` | Summarized the overall table                           |
+|        File                    |                 Description                            |
+| ----------------------------   | ------------------------------------------------------ |
+| `Julius_Report.pdf`            | Complete analysis with graphs and detailed explanations|
+| `Zebra_Visuals.xlsx`           | Visual outputs and charts from Zebra AI                |
+| `Netflix.csv`                  | The dataset used for analysis                          |
+| `Netflix_filled.csv`           | The dataset which was cleaned and given by Julius AI   |
+| `Chat gpt 2.png`               | Identified null values in each columns                 |
+| `Chat gpt sample analysis.png` | Summarized the overall table                           |
 
 ### **Conclusion**
 
