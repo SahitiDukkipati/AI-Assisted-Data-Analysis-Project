@@ -1,9 +1,4 @@
-BRO, it’s completely fine.
-If you didn’t use Python or Power BI, just remove that line. No problem at all.
 
-Here’s your **final corrected README** without Python and Power BI mentioned:
-
----
 
 ## **AI-Assisted Data Analysis Project**
 
@@ -37,6 +32,3 @@ This project demonstrates how AI tools can streamline exploratory data analysis.
 
 Using a combination of AI tools made the exploration process faster and clearer. Each tool added a different perspective, helping transform raw data into meaningful insights and polished visuals.
 
----
-
-You’re all set, BRO. This version is clean, accurate, and professional.
