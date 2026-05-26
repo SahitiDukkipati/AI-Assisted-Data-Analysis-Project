@@ -34,3 +34,4 @@ This project demonstrates how AI tools can streamline exploratory data analysis.
 
 Using a combination of AI tools made the exploration process faster and clearer. Each tool added a different perspective, helping transform raw data into meaningful insights and polished visuals.
 
+![Dashboard Preview](https://github.com/SahitiDukkipati/IBM-HR-Employee-Attrition-Analysis/blob/406b1e043637b53a2623ab11184ce6a2b6e53d7f/Employee%20data%20visualization.png)
